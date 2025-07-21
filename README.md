@@ -1,43 +1,115 @@
-<h2 align="left">Hi👋!, my name is Oscar and I'm a frontend developer.</h2>
+<h1 align="center">👨‍💻 Oscar Chávez | Frontend Developer</h1>
+<h3 align="center">Transformando ideas en experiencias digitales excepcionales</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OSCARCH2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OSCARCH2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=OSCARCH2002&label=Profile%20views&color=0e75b6&style=flat" alt="OSCARCH2002" /> 
+  <a href="https://github.com/OSCARCH2002?tab=followers">
+    <img src="https://img.shields.io/github/followers/OSCARCH2002?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0ODMzMzQsIm5iZiI6MTc0MzQ4MzAzNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDA0NTAzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlNDBlNTk5YzY5NjZhNmIwZDAxNzc4ZmJjZGY0MjhhMWJhZmE3MTk5OWFkOTk5NDEwMDdmYzJlN2RkOWJhYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n7IH_7-nazSjfAyowhLPOkCnO2Izwa20e5IFmhHHVas"  />
+## 🔥 Mis Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OSCARCH2002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSCARCH2002&theme=radical&hide_border=true" height="180" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSCARCH2002&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
 
 ###
+
+## 🛠️ Mi Stack Tecnológico
+
+### 💻 Frontend Principal
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" height="40" alt="frontend technologies" />
+</div>
+
+### 🎨 Diseño & UI/UX
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,xd" height="40" alt="design tools" />
+</div>
+
+### ⚙️ Backend & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,linux,nginx" height="40" alt="backend technologies" />
+</div>
+
+###
+
+## 🌟 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎯 Proyecto 1</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/2d2d2d/ffffff?text=Project+1" width="100%">
+        <p>Descripción breve del proyecto con tecnologías usadas</p>
+        <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-blue?style=for-the-badge"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github"></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3>🚀 Proyecto 2</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200/2d2d2d/ffffff?text=Project+2" width="100%">
+        <p>Descripción breve del proyecto con tecnologías usadas</p>
+        <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-blue?style=for-the-badge"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github"></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+###
+
+## 📈 Actividad Reciente
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [OSCARCH2002/repo-name]
+2. 🚀 Published release v1.0.0 of [project-name]
+3. 💪 Opened PR [#2] in [OSCARCH2002/repo-name]
+4. 🛠️ Fixed bug in [project-name]
+5. 📝 Updated documentation
+<!--END_SECTION:activity-->
+
+###
+
+## 📫 Contáctame
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tu-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter"/>
+  </a>
+  <a href="https://portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="Portfolio"/>
+  </a>
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+## 🎯 Metas para 2024
+
+- [x] Dominar React Avanzado
+- [ ] Aprender TypeScript
+- [ ] Contribuir a proyectos Open Source
+- [ ] Lanzar mi propio SaaS
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OSCARCH2002/OSCARCH2002/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OSCARCH2002/OSCARCH2002/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">✨ Gracias por visitar mi perfil! ✨</p>
