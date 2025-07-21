@@ -26,45 +26,20 @@
 
 ### 💻 Frontend Principal
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" height="40" alt="frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,redux" height="40" alt="frontend technologies" />
 </div>
 
 ### 🎨 Diseño & UI/UX
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,xd" height="40" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" height="40" alt="design tools" />
 </div>
 
 ### ⚙️ Backend & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,linux,nginx" height="40" alt="backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,git,github,linux,nginx,apache" height="40" alt="backend technologies" />
 </div>
 
 ###
-
-## 🌟 Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎯 Proyecto 1</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/400x200/2d2d2d/ffffff?text=Project+1" width="100%">
-        <p>Descripción breve del proyecto con tecnologías usadas</p>
-        <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-blue?style=for-the-badge"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github"></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3>🚀 Proyecto 2</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/400x200/2d2d2d/ffffff?text=Project+2" width="100%">
-        <p>Descripción breve del proyecto con tecnologías usadas</p>
-        <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-blue?style=for-the-badge"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Repo-black?style=for-the-badge&logo=github"></a>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ###
 
