@@ -69,42 +69,23 @@
 ###
 
 ## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [OSCARCH2002/repo-name]
-2. 🚀 Published release v1.0.0 of [project-name]
-3. 💪 Opened PR [#2] in [OSCARCH2002/repo-name]
-4. 🛠️ Fixed bug in [project-name]
-5. 📝 Updated documentation
-<!--END_SECTION:activity-->
-
 ###
 
 ## 📫 Contáctame
 
 <div align="left">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/oscar-ch-521863340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu-email@example.com" target="_blank">
+  <a href="oscarch2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter"/>
-  </a>
-  <a href="https://portfolio-url.com" target="_blank">
+  <a href="https://portafolio-oscardev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="Portfolio"/>
   </a>
 </div>
 
 ###
-
-## 🎯 Metas para 2024
-
-- [x] Dominar React Avanzado
-- [ ] Aprender TypeScript
-- [ ] Contribuir a proyectos Open Source
-- [ ] Lanzar mi propio SaaS
 
 ###
 
