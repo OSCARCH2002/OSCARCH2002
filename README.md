@@ -16,7 +16,7 @@
 
 ### 💻 Frontend Principal
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,redux" height="40" alt="frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,redux,astro" height="40" alt="frontend technologies" />
 </div>
 
 ### 🎨 Diseño & UI/UX
@@ -26,7 +26,7 @@
 
 ### ⚙️ Backend & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,git,github,linux,nginx,apache" height="40" alt="backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,git,github,linux,nginx,apache,php" height="40" alt="backend technologies" />
 </div>
 
 ###
