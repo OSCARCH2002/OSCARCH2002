@@ -10,90 +10,59 @@
 
 ###
 
-## 📊 Estadísticas Avanzadas
+## 🔥 Mis Estadísticas
 
 <div align="center">
-  
-  ![Metrics](https://metrics.lecoq.io/OSCARCH2002?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FMexico_City)
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=OSCARCH2002&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="OSCARCH2002" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSCARCH2002&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="activity graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=OSCARCH2002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSCARCH2002&theme=radical&hide_border=true" height="180" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSCARCH2002&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ###
 
-## 🛠️ Tech Stack Completo
+## 🛠️ Mi Stack Tecnológico
 
-<div align="center">
-  
-  ### 🌐 Frontend Principal
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,sass,styledcomponents,redux,graphql" height="50" />
-  
-  ### 🖥️ Backend & DB
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,flask,mongodb,mysql,postgres,firebase,supabase" height="50" />
-  
-  ### 🛠️ DevOps & Tools
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,gcp,azure,nginx,jenkins,linux,bash" height="50" />
-  
-  ### 🎨 Diseño & UX
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender,ae" height="50" />
+### 💻 Frontend Principal
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,redux" height="40" alt="frontend technologies" />
+</div>
+
+### 🎨 Diseño & UI/UX
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" height="40" alt="design tools" />
+</div>
+
+### ⚙️ Backend & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,git,github,linux,nginx,apache" height="40" alt="backend technologies" />
 </div>
 
 ###
 
-## 🏆 Proyectos Destacados
+###
+###
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">🎮 GameHub</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/300x150/5865F2/ffffff?text=GameHub" width="100%">
-        <p>Plataforma de videojuegos con React + Firebase</p>
-        <div>
-          <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square">
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square">
-        </div>
-        <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-5865F2?style=for-the-badge"></a>
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">💼 JobFinder</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/300x150/00D26A/ffffff?text=JobFinder" width="100%">
-        <p>Sistema de búsqueda de empleo con MERN Stack</p>
-        <div>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square">
-          <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square">
-        </div>
-        <a href="#"><img src="https://img.shields.io/badge/🚀_Ver_Repo-000000?style=for-the-badge&logo=github"></a>
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">📊 FinDash</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/300x150/7749BD/ffffff?text=FinDash" width="100%">
-        <p>Dashboard financiero con Next.js + D3.js</p>
-        <div>
-          <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square">
-          <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat-square">
-        </div>
-        <a href="#"><img src="https://img.shields.io/badge/📦_npm_Package-CB3837?style=for-the-badge&logo=npm"></a>
-      </div>
-    </td>
-  </tr>
-</table>
+## 📫 Contáctame
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/oscar-ch-521863340/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="oscarch2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+  </a>
+  <a href="https://portafolio-oscardev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="Portfolio"/>
+  </a>
+</div>
 
 ###
 
-## 📈 Mi Contribución Diaria
+###
 
-```mermaid
-pie
-    title Tiempo de Desarrollo Diario
-    "React" : 35
-    "TypeScript" : 25
-    "Node.js" : 20
-    "Diseño UI" : 15
-    "Aprendizaje" : 5
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OSCARCH2002/OSCARCH2002/output/snake.svg" alt="Snake animation" />
+</div>
+
+<p align="center">✨ Gracias por visitar mi perfil! ✨</p>
+
