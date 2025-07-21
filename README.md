@@ -42,8 +42,6 @@
 ###
 
 ###
-
-## 📈 Actividad Reciente
 ###
 
 ## 📫 Contáctame
