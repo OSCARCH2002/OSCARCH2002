@@ -10,14 +10,6 @@
 
 ###
 
-## 🔥 Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OSCARCH2002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSCARCH2002&theme=radical&hide_border=true" height="180" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSCARCH2002&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
 ###
 
 ## 🛠️ Mi Stack Tecnológico
