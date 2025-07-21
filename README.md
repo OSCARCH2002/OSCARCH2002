@@ -26,7 +26,7 @@
 
 ### ⚙️ Backend & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,git,github,linux,nginx,apache,php" height="40" alt="backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,git,github,linux,nginx,php" height="40" alt="backend technologies" />
 </div>
 
 ###
