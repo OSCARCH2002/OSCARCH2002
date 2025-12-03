@@ -16,7 +16,7 @@
 
 ### 💻 Frontend Principal
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,redux,astro" height="40" alt="frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,astro" height="40" alt="frontend technologies" />
 </div>
 
 ### 🎨 Diseño & UI/UX
